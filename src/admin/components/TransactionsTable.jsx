@@ -26,7 +26,7 @@ const TransactionsTable = ({ transactions }) => {
                         <tr className="border-b border-gray-700 text-gray-400 text-sm uppercase tracking-wider">
                             <th className="pb-4 font-medium">ID</th>
                             <th className="pb-4 font-medium">Asset</th>
-                            <th className="pb-4 font-medium">Seller > Buyer</th>
+                            <th className="pb-4 font-medium">Seller → Buyer</th>
                             <th className="pb-4 font-medium">Values</th>
                             <th className="pb-4 font-medium">Fee</th>
                             <th className="pb-4 font-medium">Status</th>
